@@ -102,8 +102,8 @@ This is a full-stack AI-powered e-commerce platform that provides intelligent pr
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ironsupr/ecommerce-product-recommender-unthinkable
-cd "ecommerce product recommender unthinkable"
+git clone https://github.com/ironsupr/AbhinavSingh_22BCE11249_E-commerceProductRecommender
+cd "AbhinavSingh_22BCE11249_E-commerceProductRecommender"
 ```
 
 #### 2️⃣ Backend Setup
