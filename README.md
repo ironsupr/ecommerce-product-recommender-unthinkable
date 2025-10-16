@@ -415,9 +415,9 @@ For recording your demo video, please refer to **[DEMO_SCRIPT.md](DEMO_SCRIPT.md
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@your-github](https://github.com/your-github)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your-email@example.com
+- GitHub: [@ironsupr](https://github.com/ironsupr)
+- LinkedIn: [Abhinav Singh](https://linkedin.com/in/abhinav-singh-aslcj3000)
+- Email: abhinavsingh25001@gmail.com
 
 ---
 
@@ -444,5 +444,5 @@ If you have questions or need help:
 
 ---
 
-*Created as part of a hiring assignment - October 2024*
+*Created as part of a hiring assignment - October 2025*
 *Assignment Topic: E-commerce Product Recommender - Combine recommendation logic with LLM-powered explanations*
